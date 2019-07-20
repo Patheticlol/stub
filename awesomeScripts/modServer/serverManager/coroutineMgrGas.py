@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import time
 
+# 这个类的作用是延迟执行给定的函数
+# 使用参考每个具体使用的地方，yield 正数为时间，负数为帧数
 class CoroutineMgr(object):
     coroutines = {}
     globalEnd = []

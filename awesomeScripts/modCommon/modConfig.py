@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# 这个文件保存了MOD中使用的一些变量，这样做的好处很多，建议参考
+
 # Mod Version
 ModName = "HugoFpsMod"
 ModVersion = "0.0.1"
